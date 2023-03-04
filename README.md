@@ -1,3 +1,3 @@
 # C-Projeleri
-C ile geliştirdiğim projeleri paylaştığım repo. 
+c ile geliştirdiğim projeleri paylaştığım repo. 
 
